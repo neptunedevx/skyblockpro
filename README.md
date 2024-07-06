@@ -1,7 +1,7 @@
-# skyblockpro
-A hypixel skyblock macro to help you level up your skills faster!
+# SkyblockPro
+# A Hypixel Skyblock macro to help you level up your skills faster!
 
-Features:
+# Features:
 
   - Tree Farming (Foraging with AI to level up faster)
   - Mining Nuker (Nuke that bypasses Watchdog and lets you farm quick and efficiently)
