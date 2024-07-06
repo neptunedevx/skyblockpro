@@ -1,6 +1,6 @@
 # SkyblockPro
 # A Hypixel Skyblock macro to help you level up your skills faster!
-
+# Version: Forge 1.8.9, Supports Optifine.
 # Features:
 
   - Tree Farming (Foraging with AI to level up faster)
